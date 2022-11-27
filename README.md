@@ -1,3 +1,3 @@
 # Pathfinding-Visualizer
 
-A star pathfinding visualizer
+A* pathfinding visualizer
