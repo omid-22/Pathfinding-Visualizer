@@ -1,3 +1,3 @@
 # Pathfinding-Visualizer
 
-A* pathfinding visualizer
+A* pathfinding visualizer using pygame
